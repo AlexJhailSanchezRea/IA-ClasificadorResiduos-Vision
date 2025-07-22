@@ -80,7 +80,7 @@ python main_working.py
 <div align="center">
 
 ### 🖥️ Ejecutado El Programa
-<img src="setUp/Ejecutado.png" alt="Interfaz Principal" width="800"/>
+<img src="setUp/ejecutado.png" alt="Interfaz Principal" width="800"/>
 
 ### 🖥️ Interfaz Principal
 <img src="setUp/Canva.png" alt="Interfaz Principal" width="800"/>
